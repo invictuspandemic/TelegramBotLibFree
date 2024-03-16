@@ -1,0 +1,7 @@
+env: "local" # local, dev, so on
+storage_path: "./storage/storage.db"
+tg_creds:
+  api_token: "test"
+logger: 
+  log_type: "pretty"
+  log_level: -4
