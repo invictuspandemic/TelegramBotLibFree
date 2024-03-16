@@ -1,5 +1,5 @@
 build:
-	@go build cmd/telegram-bot-lib-free/main.go -o bin/TelegramBotLibFree
+	@go build -o bin/TelegramBotLibFree
 
 run: build
 	@./bin/TelegramBotLibFree
