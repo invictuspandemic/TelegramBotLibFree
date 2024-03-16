@@ -1,4 +1,4 @@
-module github.com/invictuspandemic/TelegramBotLibFree
+module TelegramBotLibFree
 
 go 1.22.0
 
